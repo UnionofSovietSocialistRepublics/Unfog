@@ -1,8 +1,8 @@
 {
   "name": "unfog",
   "displayName": "Unfog",
-  "author": "Unfogger",
-  "description": "Unfog your fog of war, might be a little bit unfair.",
+  "author": "Water molecules",
+  "description": "Unfog your fog of war, might be a little bit unfair.\nYes, This works on multiplayer, have fun ^w^",
   "version": "0.1",
   "minGameVersion": "144.3",
   "hidden": "true"
